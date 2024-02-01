@@ -1,0 +1,17 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner{
+    background-image: url(/images/tea.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+
+.skill {
+    padding: 70px 0;
+    
+
+}
